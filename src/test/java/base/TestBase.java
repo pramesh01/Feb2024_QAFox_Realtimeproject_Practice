@@ -12,7 +12,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class TestBase {
 	
-	
+	//this is only test comment 
 	public WebDriver initializeBrowser(String bName) {
 		WebDriver driver=null;
 		DesiredCapabilities dc=new DesiredCapabilities();
